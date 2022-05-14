@@ -164,8 +164,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 292444445324316985}
-  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalRotation: {x: -0.7042625, y: -0.006148209, z: -0.06317936, w: 0.70709616}
+  m_LocalPosition: {x: -0.08071375, y: -0.0052719116, z: 0.0023994371}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children:
   - {fileID: 8300099051394698893}
@@ -175,7 +175,7 @@ Transform:
   - {fileID: 719415688349244015}
   m_Father: {fileID: 6535966611668304912}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -94.628, y: -95.65698, z: 90.032}
 --- !u!137 &4660633920524462766
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 0
@@ -5008,6 +5008,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2641146320500265970}
   - component: {fileID: 5839318044816523628}
+  - component: {fileID: 2822959412069267591}
   m_Layer: 0
   m_Name: nurse_suit
   m_TagString: Untagged
@@ -5106,6 +5107,25 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.0007916975, y: -0.00080866925, z: -0.00022647949}
     m_Extent: {x: 0.0014833121, y: 0.006935156, z: 0.0039892183}
   m_DirtyAABB: 0
+--- !u!95 &2822959412069267591
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6748838448584266110}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6901375f6324a524188214f09adf0b05, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &6805509490748859570
 GameObject:
   m_ObjectHideFlags: 0
@@ -6888,7 +6908,7 @@ Animator:
   m_GameObject: {fileID: 9113561252080322206}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: d83e07c47cb17454bbddbc5dd7574150, type: 3}
-  m_Controller: {fileID: 9100000, guid: 64d78995d526da546a4d58f9211e5156, type: 2}
+  m_Controller: {fileID: 9100000, guid: 315b073ee145cab47bd44ae2c8a1a673, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

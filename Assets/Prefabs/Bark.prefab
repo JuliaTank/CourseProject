@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 8715925096227375038}
   - component: {fileID: 8715925096227374977}
   - component: {fileID: 3142991059350385998}
-  - component: {fileID: 5904402341986100010}
   m_Layer: 0
   m_Name: Bark
   m_TagString: Bark
@@ -29,8 +28,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8715925096227374976}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.947, y: 9.688, z: -0.468}
-  m_LocalScale: {x: 0.073357746, y: 0.073357746, z: 0.073357746}
+  m_LocalPosition: {x: -7.9419, y: 9.688, z: -0.44772}
+  m_LocalScale: {x: 0.20012727, y: 0.20012727, z: 0.20012727}
   m_Children:
   - {fileID: 2177238698335363618}
   m_Father: {fileID: 0}
@@ -114,18 +113,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &5904402341986100010
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8715925096227374976}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ba0d23c74cb92164b89917f89cc178cd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &8719570124343481180
 GameObject:
   m_ObjectHideFlags: 0

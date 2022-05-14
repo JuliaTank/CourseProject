@@ -13,6 +13,10 @@ TagManager:
   - Mushroom
   - MovingPlatform
   - Bark
+  - Enemy
+  - Portal
+  - SpecialMushroom
+  - Friend
   layers:
   - Default
   - TransparentFX
