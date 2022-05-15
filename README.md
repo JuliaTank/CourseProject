@@ -1,5 +1,4 @@
-# CourseProject
-HUNGRY DOG GAME<br>
+# HUNGRY DOG GAME
 Link to youtube presentation: https://youtu.be/YUSTdtdmJBA <br>
 Link to game hosted on Github page: https://juliatank.github.io/hungryDogGame/ <br>
 
